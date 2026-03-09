@@ -10,7 +10,7 @@
 | [blossom](https://github.com/Kaiserrrrrr/blossom) | minimal css framework/theme based on sakura.css | `css` |
 | [aqtive](https://github.com/Kaiserrrrrr/aqtive) | LXQt on Arch made effortless | `bash` |
 
----
+&nbsp;
 
 ## Stack
 
